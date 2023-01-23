@@ -91,3 +91,60 @@ body {
   color: #777777;
 }
 /*Our Featured Products section end*/
+
+/* Great Tea section start */
+.grid-1 {
+  background: linear-gradient(270deg, #ff0000 0%, #ff8938 100%);
+  opacity: 0.1;
+  border-radius: 10px;
+  transform: rotate(-180deg);
+  width: 238px;
+  height: 136px;
+}
+.grid-2 {
+  background: rgba(230, 166, 35, 0.1);
+  border-radius: 10px;
+  width: 238px;
+  height: 355.28px;
+}
+.grid-3 {
+  background: rgba(87, 118, 57, 0.1);
+  border-radius: 10px;
+  width: 238px;
+  height: 355.28px;
+}
+.grid-4 {
+  background: linear-gradient(90deg, #d9d9d9 0%, rgba(255, 255, 255, 0) 100%);
+  border-radius: 10px;
+  width: 238px;
+  height: 136px;
+}
+
+.great-title {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 45px;
+  color: #1c1c1c;
+}
+.great-para {
+  ont-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #777777;
+}
+.great-header {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 20px;
+}
+.header-para-great {
+  font-family: "Manrope";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #777777;
+}
+/* Great Tea section end */
